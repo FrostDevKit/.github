@@ -7,7 +7,8 @@ Frost Development Kit (FDK) is a library that allows you to build complex multis
 
 ## Ecosystem 
 
-- [Frost JS](https://github.com/FrostDevKit/Frost-js1) - JS Library
+- [Frost JS](https://github.com/FrostDevKit/Frost-js1) - Library Frost in Javascript compatible with React
+
 - [Rust Frost](https://github.com/FrostDevKit/rust-frost) - Rust implementation in Frost (study only)
   
 ## Contributions and Supporters 
