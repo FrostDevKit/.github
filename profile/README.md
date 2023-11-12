@@ -5,6 +5,7 @@
 
 Frost Development Kit (FDK) is a library that allows you to build complex multisig without worrying and low level using Taproot and Schnorr Signature
 
+FDK is based on [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) and [bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib/)
 ## Ecosystem 
 
 - [Frost JS](https://github.com/FrostDevKit/javascript-frost) - Library Frost in Javascript compatible with React
