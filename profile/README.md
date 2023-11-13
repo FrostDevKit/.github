@@ -12,7 +12,7 @@ FDK is based on [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) and
 
 - [Rust Frost](https://github.com/FrostDevKit/rust-frost) - Rust implementation in Frost (study only)
 
-- Frost Bindings - Library Frost in C++, C, Typescript, Rust, Python, Java, C# and Shell (TBD)
+- [Frost Bindings](https://github.com/FrostDevKit/frost-binding) - Library Frost in C++, C, Typescript, Rust, Python, Java, C# and Shell 
   
 ## Contributions and Supporters 
 
