@@ -17,5 +17,6 @@ FDK is based on [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) and
 ## Contributions and Supporters 
 
 - [Area Layer](https://www.arealayer.com/)
+- Anon & public devs
 
 
