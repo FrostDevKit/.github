@@ -11,6 +11,8 @@ FDK is based on [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) and
 - [Frost JS](https://github.com/FrostDevKit/javascript-frost) - Library Frost in Javascript compatible with React
 
 - [Rust Frost](https://github.com/FrostDevKit/rust-frost) - Rust implementation in Frost (study only)
+
+- BIP - soon
   
   
 ## Contributions and Supporters 
