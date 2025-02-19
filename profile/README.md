@@ -12,7 +12,7 @@ FDK is based on [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) and
 
 - [Rust Frost](https://github.com/FrostDevKit/rust-frost) - Rust implementation in Frost (study only)
 
-- BIP - soon
+- [BIP Frost](https://github.com/FrostDevKit/BIP-frost) - TBA
   
   
 ## Contributions and Supporters 
