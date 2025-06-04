@@ -1,6 +1,6 @@
 # Frost Dev Kit 
 
-![image](https://github.com/FrostDevKit/.github/assets/83122757/bc3668c9-30cc-4954-bd6a-9717ac5a8721)
+![image](https://avatars.githubusercontent.com/u/150530243?s=200&v=4)
 
 
 Frost Development Kit (FDK) is a library that allows you to build complex multisig without worrying and low level using Taproot and Schnorr Signature
