@@ -14,7 +14,7 @@ FDK is based on [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) and
 
 - [Frost Bindings](https://github.com/FrostDevKit/frost-binding) - TBA
 
-- [BIP Frost](https://github.com/FrostDevKit/BIP-frost) 
+- [BIP Frost](https://github.com/FrostDevKit/BIP-frost) -  BIP proposes the integration of the FROST (Flexible Round-Optimized Schnorr Threshold) signature scheme into the Bitcoin protocol. 
   
   
 ## Contributions and Supporters 
