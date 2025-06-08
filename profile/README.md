@@ -14,7 +14,7 @@ FDK is based on [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) and
 
 - [Frost Bindings](https://github.com/FrostDevKit/frost-binding) - TBA
 
-- [BIP Frost](https://github.com/FrostDevKit/BIP-frost) - TBA
+- [BIP Frost](https://github.com/FrostDevKit/BIP-frost) 
   
   
 ## Contributions and Supporters 
